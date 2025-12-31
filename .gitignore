@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env
+
+# Optional: ignore large raw datasets
+# 04_python/data/raw/
