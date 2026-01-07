@@ -1,4 +1,5 @@
 Queries to Write
+  
 -- Access the view of all customers
 Select *
 FROM customers;
@@ -36,4 +37,5 @@ FROM customers;
 SELECT customer_id, senior_citizen
 FROM customers
 WHERE senior_citizen = 1;
--
+
+
